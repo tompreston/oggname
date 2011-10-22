@@ -1,0 +1,3 @@
+oggname names all the ogg vorbis files in the current directory using vorbiscomment
+to run just type oggname.py in a directory filled with .ogg files
+also, python 3
